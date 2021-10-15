@@ -1,0 +1,10 @@
+Ivanov 23543.12
+Petrov 13749.32
+Sidorov 12893.22
+Alekseev 22555.22
+Smirnov 44333.67
+Kolesov 43126.33
+Fadeev 23789.12
+Amochkin 12533.54
+Fedorov 12905.22
+Ignatov 32432.11
